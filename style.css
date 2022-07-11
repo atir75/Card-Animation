@@ -3,6 +3,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: sans-serif;
 }
 
 body{
@@ -49,4 +50,15 @@ body{
     cursor: pointer;
     padding: 1em;
     font-size: 30px;
+}
+
+.card-top h3{
+    font-size: 20px;
+    padding-left: 1.5em;
+}
+
+.card-top h1{
+    font-size: 30px;
+    padding-left: 1em;
+    font-weight: 600;
 }
