@@ -8,3 +8,13 @@
 body{
     background: #f1f1f1;
 }
+
+.container{
+    width: 600px;
+    height: 100vh;
+    background: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+}
