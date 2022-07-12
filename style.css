@@ -98,3 +98,19 @@ body{
     background: #0088d2;
     color: #fff; 
 }
+
+#tenis-1,
+#tenis-2{
+    width: 450px;
+    position: absolute;
+    top: 190px;
+    transition: 1s;
+}
+
+#tenis-1{
+    left: -50px;
+}
+
+#tenis-2{
+    left: -650px;
+}
